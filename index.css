@@ -110,13 +110,14 @@ em {
 
 cite {
   display: block;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   line-height: 1.5em;
   margin: 1em 0 0 4em;
   overflow: hidden;
   color: #666;
   font-weight: 100;
   font-family: 'Nanum Pen Script', 'Neucha', arial, cursive;
+  font-family: 'Merriweather Sans';
 }
 
 .praise cite {
